@@ -218,12 +218,9 @@ body.dark-theme {
 }
 
 .nav__logo {
-  text-transform: uppercase;
-  font-weight: var(--font-bold);
-  letter-spacing: 1px;
+  width: 50px;
   display: inline-flex;
   align-items: center;
-  column-gap: .25rem;
 }
 
 .nav__logo-icon {
